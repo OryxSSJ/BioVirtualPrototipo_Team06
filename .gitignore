@@ -1,0 +1,21 @@
+# PHP
+vendor/
+composer.lock
+.phpunit.result.cache
+
+# Config (Sensitive data)
+app/config.php
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+generate_metrics.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
